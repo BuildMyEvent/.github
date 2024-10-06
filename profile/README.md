@@ -8,7 +8,6 @@
 - **White-Label**: Customize your page and host it on your domain.
 - **Open Source**: Community-driven with continuous improvements.
 - **Built on Base**: Enjoy scalability, security, and blockchain integration from the ground up.
-- **Scalable & Secure**: Suitable for events of any size.
 
 ## 🚀 NFTs and Web3 Integration
 
