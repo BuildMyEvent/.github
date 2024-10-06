@@ -27,8 +27,12 @@ With BuildMyEvent, you can also offer **NFT tickets**! Attendees can collect and
 - **Communities & Clubs**: Organize and manage events of any scale.
 - **Web3 Enthusiasts**: Explore NFT ticketing and blockchain features with Base.
 
+## 📡 API for Developers
+
+If you're a developer or an existing ticketing service, you can integrate our **API** to bring Web3 technology to your platform. The API allows you to offer NFT tickets to attendees, making it easy to incorporate blockchain features and add value to your event experience.
+
 ## 🤝 Join the Community
 
 Contribute to our open-source project and help shape the future of event ticketing with **BuildMyEvent**, built on Base.
 
-Create. Customize. Collect. 🚀✨
+**Create. Customize. Collect. 🚀✨**
