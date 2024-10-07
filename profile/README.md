@@ -8,7 +8,7 @@
 - **White-Label**: Fully customize your page and host it on your own domain.
 - **Open Source**: Backed by a thriving community with continuous improvements.
 - **Built on Base**: Offering the scalability, security, and blockchain integration that Base provides.
-- **API for Developers**: Integrate our powerful API into existing ticketing platforms to offer NFT ticketing and blockchain features—without the need for coding.
+- **API for Developers**: Developers can use our API to integrate NFT ticketing and blockchain features into existing platforms, leveraging Web3 technologies.
 
 ## 🚀 NFTs and Web3 Integration
 
@@ -29,7 +29,7 @@ With BuildMyEvent, you can offer **NFT tickets** that allow attendees to collect
 
 ## 📡 API for Developers
 
-If you're a developer or an existing ticketing platform, **BuildMyEvent's API** allows you to integrate Web3 technology effortlessly. By offering **NFT tickets**, you can unlock blockchain functionality for your attendees, providing unique, collectible experiences that add value to your events. This integration is **no-code**, making it simple to adopt blockchain technology.
+If you're a developer or an existing ticketing platform, **BuildMyEvent's API** provides the tools to integrate Web3 technology into your services. You can offer **NFT tickets** to attendees, enabling blockchain features and adding value to the event experience. While the platform itself is no-code for event creators, developers will need technical knowledge to integrate and customize the API for their platforms.
 
 ## 🤝 Join the Community
 
