@@ -4,6 +4,7 @@
 
 ## 🌟 Key Features
 
+-**NFT Ticketing**: Each ticket is minted as an NFT, ensuring authenticity, security, and traceable ownership for your attendees.
 - **No-Code**: Build and launch event pages without coding skills.
 - **API for Developers**: Developers can use our API to integrate NFT ticketing and blockchain features into existing platforms, leveraging Web3 technologies.
 - **White-Label**: Customize your page and host it on your domain.
