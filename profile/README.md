@@ -15,13 +15,6 @@
 
 With BuildMyEvent, you can also offer **NFT tickets**! Attendees can collect NFTs, unlocking real-world value and enhancing the event experience. Built on Base, this project leverages blockchain technology to provide everyday utility for NFTs.
 
-## 📦 Benefits
-
-- **Effortless Ticket Sales**: Manage ticketing and payments seamlessly.
-- **Custom Domains**: Host on your own subdomain.
-- **NFT Integration**: Engage attendees with collectible NFTs, powered by Base.
-- **Professional Branding**: Ensure your brand stays front and center.
-
 ## 🌍 Who’s it for?
 
 - **Event Planners**: Simplify event management with professional ticketing.
