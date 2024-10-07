@@ -5,7 +5,7 @@
 ## 🌟 Key Features
 
 - **No-Code**: Build and launch event pages without coding skills.
-- - **API for Developers**: Developers can use our API to integrate NFT ticketing and blockchain features into existing platforms, leveraging Web3 technologies.
+- **API for Developers**: Developers can use our API to integrate NFT ticketing and blockchain features into existing platforms, leveraging Web3 technologies.
 - **White-Label**: Customize your page and host it on your domain.
 - **Open Source**: Community-driven with continuous improvements.
 - **Built on Base**: Enjoy scalability, security, and blockchain integration from the ground up.
