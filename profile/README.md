@@ -13,7 +13,7 @@
 
 ## 🚀 NFTs and Web3 Integration
 
-With BuildMyEvent, you can also offer **NFT tickets**! Attendees can collect and trade NFTs, unlocking real-world value and enhancing the event experience. Built on Base, this project leverages blockchain technology to provide everyday utility for NFTs.
+With BuildMyEvent, you can also offer **NFT tickets**! Attendees can collect NFTs, unlocking real-world value and enhancing the event experience. Built on Base, this project leverages blockchain technology to provide everyday utility for NFTs.
 
 ## 📦 Benefits
 
