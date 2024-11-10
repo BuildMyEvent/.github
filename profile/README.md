@@ -31,7 +31,7 @@ If you're a developer or an existing ticketing service, you can integrate our **
 - [**Robert Ramírez**](https://github.com/robertram)
 - [**Kevin Latino**](https://github.com/KevinLatino)
 - [**Daniel Garbanzo**](https://github.com/bitfalt)
-- [**Santiago Villareal**](https://github.com/villarley)
+- [**Santiago Villarreal**](https://github.com/villarley)
 - [**Juan Pablo Villaplana**](https://github.com/PabloVillaplana)
 
 
