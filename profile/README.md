@@ -4,6 +4,10 @@ https://buildmyevent.xyz/
 
 **BuildMyEvent** is an open-source, no-code platform built on Base, designed to let you create beautiful event pages and sell tickets with ease. Whether you're organizing a concert, conference, or meetup, BuildMyEvent delivers a seamless ticketing experience with full customization to reflect your brand. Additionally, each ticket is minted as an NFT, providing authenticity, security, and ownership benefits to your attendees. 🎟️
 
+##  🏆 Rewards 
+
+Base LATAM Buildathon Winner 2024
+
 ## 🌟 Key Features
 
 - **NFT Ticketing**: Each ticket is minted as an NFT, ensuring authenticity, security, and traceable ownership for your attendees.
@@ -27,9 +31,6 @@ With BuildMyEvent, you can also offer **NFT tickets**! Attendees can collect NFT
 
 If you're a developer or an existing ticketing service, you can integrate our **API** to bring Web3 technology to your platform. The API allows you to offer NFT tickets to attendees, making it easy to incorporate blockchain features and add value to your event experience.
 
-##  🏆 Rewards 
-
-Base LATAM Buildathon Winner 2024
 
 ## 👨🏻‍💻 Meet the Team
 - [**Robert Ramírez**](https://github.com/robertram)
