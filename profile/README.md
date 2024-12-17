@@ -2,7 +2,11 @@
 
 This project was created to participate in the Based Latam Buildathon 2024 hosted by Base 🏆
 
-Learn more here: https://based-latam.devfolio.co/
+Learn more here: 
+
+https://based-latam.devfolio.co/ 
+https://based-latam.devfolio.co/projects
+
 
 **BuildMyEvent** is an open-source, no-code platform built on Base, designed to let you create beautiful event pages and sell tickets with ease. Whether you're organizing a concert, conference, or meetup, BuildMyEvent delivers a seamless ticketing experience with full customization to reflect your brand. Additionally, each ticket is minted as an NFT, providing authenticity, security, and ownership benefits to your attendees. 🎟️
 
