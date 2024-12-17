@@ -1,6 +1,7 @@
 # BuildMyEvent
 
 This project was created to participate in the Based Latam Buildthaton 2024 hosted by Base 🏆
+
 Learn more here: https://based-latam.devfolio.co/
 
 https://buildmyevent.xyz/
