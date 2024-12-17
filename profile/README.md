@@ -10,7 +10,7 @@ https://buildmyevent.xyz/
 
 ##  🏆 Rewards 
 
-Base LATAM Buildathon Winner 2024
+Base LATAM Buildathon Winner 2024  https://devfolio.co/projects/buildmyevent-f991
 
 ## 🏆 Key Features
 
