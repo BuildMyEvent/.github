@@ -1,4 +1,6 @@
-##  🏆 Rewards 
+## This project was for the Base LATAM Buildathon 2024
+
+🏆 Rewards 
 
 Base LATAM Buildathon Winner 2024  https://devfolio.co/projects/buildmyevent-f991
 
